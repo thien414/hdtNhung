@@ -4,3 +4,9 @@ D:\học\HDT\daQuang\daQuang\bin\Debug\daQuang.pdb
 D:\học\HDT\daQuang\daQuang\obj\Debug\daQuang.csprojResolveAssemblyReference.cache
 D:\học\HDT\daQuang\daQuang\obj\Debug\daQuang.exe
 D:\học\HDT\daQuang\daQuang\obj\Debug\daQuang.pdb
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\bin\Debug\daQuang.exe.config
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\obj\Debug\daQuang.exe
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\obj\Debug\daQuang.pdb
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\bin\Debug\daQuang.exe
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\bin\Debug\daQuang.pdb
+C:\Users\Admin\Documents\GitHub\hdtNhung\daQuang\daQuang\obj\Debug\daQuang.csprojResolveAssemblyReference.cache
